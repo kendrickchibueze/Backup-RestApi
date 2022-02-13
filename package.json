@@ -1,0 +1,27 @@
+{
+  "name": "backup-restapi",
+  "version": "1.0.0",
+  "description": "Cloud Backup Api System for risevest",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kendrickchibueze/Backup-RestApi.git"
+  },
+  "keywords": [
+    "Rest",
+    "Api"
+  ],
+  "author": "Kendrick Chukwuka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kendrickchibueze/Backup-RestApi/issues"
+  },
+  "homepage": "https://github.com/kendrickchibueze/Backup-RestApi#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
